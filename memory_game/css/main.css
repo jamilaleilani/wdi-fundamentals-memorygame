@@ -1,0 +1,25 @@
+
+
+body{
+	background-color: rgba(255,255,255,1);
+	text-align: center;
+}
+
+h1 {
+	color: rgba(100,000,255,1);
+	background-color: rgba(000,255,255,1);
+
+}
+
+h1, h2, h4 {
+	font-family: "Open Sans", sans-serif;
+	font-weight: 100;
+	font-size: 30px;
+	text-decoration: line-through;
+	text-transform: uppercase;
+}
+
+a {
+
+	text-decoration: none;
+}
